@@ -1,0 +1,10 @@
+C:\Users\Gamer\source\repos\OpenProjects\OpenProjects\bin\Debug\OpenProjects.exe.config
+C:\Users\Gamer\source\repos\OpenProjects\OpenProjects\bin\Debug\OpenProjects.exe
+C:\Users\Gamer\source\repos\OpenProjects\OpenProjects\bin\Debug\OpenProjects.pdb
+C:\Users\Gamer\source\repos\OpenProjects\OpenProjects\obj\Debug\OpenProjects.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\OpenProjects\OpenProjects\obj\Debug\OpenProjects.Form1.resources
+C:\Users\Gamer\source\repos\OpenProjects\OpenProjects\obj\Debug\OpenProjects.Properties.Resources.resources
+C:\Users\Gamer\source\repos\OpenProjects\OpenProjects\obj\Debug\OpenProjects.csproj.GenerateResource.cache
+C:\Users\Gamer\source\repos\OpenProjects\OpenProjects\obj\Debug\OpenProjects.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\OpenProjects\OpenProjects\obj\Debug\OpenProjects.exe
+C:\Users\Gamer\source\repos\OpenProjects\OpenProjects\obj\Debug\OpenProjects.pdb
